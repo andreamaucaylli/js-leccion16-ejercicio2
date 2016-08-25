@@ -33,3 +33,5 @@ Pseudocódigo para el promedio de tres números mediante JavaScript.
 7. Dividir la suma de num1, num2 y num3 entre tres.
 7. Imprimir resultado.
 8. FIN
+
+![alt](http://i63.tinypic.com/2ey9isk.jpg)
